@@ -1,0 +1,12 @@
+/*
+ * Hussainas Conditional Checkout Styles
+ *
+ * Hides the conditional field by default.
+ *
+ * @package Hussainas_Conditional_Checkout
+ */
+
+/* Hide the custom field wrapper by default. */
+.hussainas-checkout-field-wrapper {
+    display: none;
+}
